@@ -1,1 +1,1 @@
-# Graph-Coloring-in-Prolog
+# Graph Coloring in Prolog
